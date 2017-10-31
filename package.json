@@ -1,0 +1,22 @@
+{
+	"name": "bootstrap-self",
+	"version": "1.0.0",
+	"description": "bootstrap",
+	"main": "index.js",
+	"dependencies": {
+		"browser-sync": "^2.18.13",
+		"gulp": "^3.9.1",
+		"gulp-concat": "^2.6.1",
+		"gulp-data": "^1.2.1",
+		"gulp-less": "^3.3.2"
+	},
+	"devDependencies": {
+		"bootstrap": "^3.3.7"
+	},
+	"scripts": {
+		"start": " gulp",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "wangfei",
+	"license": "ISC"
+}
